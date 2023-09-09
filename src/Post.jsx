@@ -5,6 +5,8 @@ export default function Post({ post }) {
             <h3>ID {id}</h3>
             <h2>Title: {title}</h2>
             <p>Body: {body}</p>
+            <hr />
+            <br />
 
         </div>
     )
